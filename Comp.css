@@ -1,0 +1,78 @@
+
+body{
+    font-family: roboto;
+    background: ;
+    margin: 0;
+}
+
+
+nav{
+    background: #fff;
+    height: 10vh;
+    width: 100vw;
+    position: fixed;
+    display: flex;
+    align-content: center;
+    box-shadow: 0 1px 1px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 3vh;
+}
+
+
+nav ul li a h1{
+    text-decoration: none;
+    color: ;
+}
+
+/*CONTENT*/
+header{
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.bg{
+    width: 100%;
+    height: 100vh; background:url(https://cdn72.picsart.com/192305982000202.gif?to=min&r=640);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    transition: 0.5s;
+    
+}
+
+.kolom{
+    margin: 10px;
+    background: #fff;
+    height: 90vh;
+    width: 25vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.bg p{
+    margin-top: -19%;
+    margin-left: 12px;
+}
+.bg h3{
+    margin-top: 4%
+}
+.bg img{
+    width: 35vw;
+    height: 35vh;
+    transition: 0.5s; 
+    margin-top: -12%;
+}
+
+
+
