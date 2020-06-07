@@ -54,3 +54,6 @@ p, h2, h3{
     margin-right: 300px;
     display: inline-block;
 }
+p{
+    margin-top: -5px;
+}
