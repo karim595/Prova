@@ -4,6 +4,9 @@ body{
     box-sizing:border-box;
     font-family: "Roboto", sans-serif;
     background-image: url(https://askmrnilsson.se/wp-content/uploads/2013/12/DSC_20261.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
 }
 
 header{
@@ -47,14 +50,9 @@ h4{
 }
 p, h2, h3{
     color: black;
-}
-.p{
-    text-align: center;
-    margin-left: 3px;
+    margin-left: 33px;
+    margin-right: 44px;
 }
 
-    
-}
-.p:hover{
-    color: cyan;
-}
+
+
