@@ -27,7 +27,7 @@ header{
 .Logout_btn{
     padding: 5px;
     background: #19B3D3;
-    text-decoration: none;
+    text-decoration: none;  
     float: right;
     margin-top: -30px;
     margin-right: 80px;
@@ -35,7 +35,7 @@ header{
     font-size: 15px;
     font-weight: 600;
     color: #fff;
-    transition: 0.5s;
+    transition: 0.5s;   /* Jag annvänder transition for att bild eller texter dyka upp som animeringar at vi har i Powerpoint */
     transition-property: background;
 }
 .logout_btn:hover{
@@ -72,7 +72,7 @@ header{
     width: 150px;
     display: block;
     height: 60px;
-    text-decoration: none;
+    text-decoration: none; 
     padding-left: 40px;
     box-sizing: border-box;
     transition: 0.5s;
