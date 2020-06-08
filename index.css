@@ -89,13 +89,13 @@ header{
     padding-right: 20px;
     
 }
-label #sidebar_btn{
+label #sidebar_btn{          /*--Här använder jag label för min meny för att visa bara icon när man trycka på meny.*/
     z-index: 1;
     color: #fff;
     position: fixed;
     cursor: pointer;
     left: 300px;
-    font-size: 20px;
+    font-size: 20px;  /* jag använder font size för att hur stor min ska vara*/
     margin: 5px 0;
     transition: 0.5s;
     transition-property: color;
