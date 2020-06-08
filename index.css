@@ -72,7 +72,7 @@ header{
     width: 150px;
     display: block;
     height: 60px;
-    text-decoration: none; 
+    text-decoration: none;   /* text decoration har jag använd för att den under line som finns under min link ska tas bort och syns inte som link*/
     padding-left: 40px;
     box-sizing: border-box;
     transition: 0.5s;
